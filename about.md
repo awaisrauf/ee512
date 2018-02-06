@@ -3,16 +3,20 @@ layout: page
 title: Overview
 permalink: /about/
 ---
+
+<form>
+<input type="button" value="Piazza Class" onclick="window.location.href='https://piazza.com/itu.edu.pk/spring2018/ee512'" />
+</form>
 ### Summary
 ___
-This course will provide an introduction to the theory of statistical learning and practical machine 
+<p>This course will provide an introduction to the theory of statistical learning and practical machine 
 learning algorithms with applications in signal processing and data analysis. In contrast to most 
 traditional approaches to statistical inference and signal processing, in this course we will focus on
 how to learn effective models from data and how to apply these models to practical signal processing 
 problems. We will approach these problems from the perspective of statistical inference. 
 We will study both practical algorithms for statistical inference and theoretical aspects of how to
  reason about and work with probabilistic models. We will consider a variety of applications, including
- classification, prediction, regression, clustering, modeling, and data exploration/visualization.
+ classification, prediction, regression, clustering, modeling, and data exploration/visualization.</p>
 
 ### Prerequisites
 ___
@@ -28,7 +32,20 @@ ___
 *Office hours*: I am typically in my office from 11a onwards on weekdays. For any course related queries visit the TAs first and if your question is not resolved set an appointment with me via email.
 
 #### Bio
-Dr. Ali Ahmed is currently Assistant Professor in the Department of Electrical Engineering atInformation Tecnology University, Lahore. Prior to that he worked as a postdoctoral associate at the Department of Mathematics, MIT from 2014 to 2016, and as a postdoctoral fellow at the Institute of Computational and Experimental Research in Mathematics (ICERM) at Brown University, USA. He completed his PhD in electrical engineering from Georgia Institute of Technology (GaTech), USA, and has been working in the Center of Signal and Information Processing (CSIP) at GaTech. During his PhD he spent the summer of 2012 at Duke University, USA in a research program on high dimensional data analysis techniques. He received an MS in Mathematics from the Georgia Institute of Technology, Atlanta, USA; and an MS in electrical engineering from the University of Michigan, Ann Arbor, USA; and a B.Sc. in electrical engineering from the University of Engineering and Technology, Lahore. Ali Ahmed is also a recipient of the Fulbright fellowship award for MS leading to PhD. His research interests include compressive sensing, inverse problems in imaging, convex geometry, low-rank matrix recovery, sparse approximations, and applications of low-dimensional signal models in signal processing, and machine learning. His PhD research includes a significant contributions towards the important blind deconvolution problem in signal processing and communications.
+<p> Dr. Ali Ahmed is currently Assistant Professor in the Department of Electrical Engineering atInformation
+Tecnology University, Lahore. Prior to that he worked as a postdoctoral associate at the Department of 
+Mathematics, MIT from 2014 to 2016, and as a postdoctoral fellow at the Institute of Computational and 
+Experimental Research in Mathematics (ICERM) at Brown University, USA. He completed his PhD in electrical
+engineering from Georgia Institute of Technology (GaTech), USA, and has been working in the Center of 
+Signal and Information Processing (CSIP) at GaTech. During his PhD he spent the summer of 2012 at Duke 
+University, USA in a research program on high dimensional data analysis techniques. He received an MS in
+Mathematics from the Georgia Institute of Technology, Atlanta, USA; and an MS in electrical engineering
+from the University of Michigan, Ann Arbor, USA; and a B.Sc. in electrical engineering from the University
+of Engineering and Technology, Lahore. Ali Ahmed is also a recipient of the Fulbright fellowship award for
+MS leading to PhD. His research interests include compressive sensing, inverse problems in imaging, convex
+geometry, low-rank matrix recovery, sparse approximations, and applications of low-dimensional signal model
+s in signal processing, and machine learning. His PhD research includes a significant contributions towards
+the important blind deconvolution problem in signal processing and communications. </p>
 ### Teaching Assistant
 We will have two TAs for this course.
 #### Muhammad Asim
@@ -132,4 +149,6 @@ _Further topics (Important things that we will probably not have time to cover)_
 #### Online Resources
 ___
 Please join piazza from following link;
-piazza.com/itu.edu.pk/spring2018/ee512
+<form>
+<input type="button" value="Piazza Claass" onclick="window.location.href='https://piazza.com/itu.edu.pk/spring2018/ee512'" />
+</form>
