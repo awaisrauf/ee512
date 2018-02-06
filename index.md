@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overview
-permalink: /about/
+permalink: /index/
 ---
 ### Summary
 ___
