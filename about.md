@@ -4,9 +4,14 @@ title: Overview
 permalink: /about/
 ---
 
+
+<div class="btn-group">
 <form>
 <input type="button" value="Piazza Class" onclick="window.location.href='https://piazza.com/itu.edu.pk/spring2018/ee512'" />
+<input type="button" value="Syllabus PDF" onclick="window.location.href='https://goo.gl/UEQiq7'" />
 </form>
+  
+</div>
 ### Summary
 ___
 <p>This course will provide an introduction to the theory of statistical learning and practical machine 
