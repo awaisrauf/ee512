@@ -7,7 +7,9 @@ permalink: /resources/
 ___
 - [Khan Academy lectures on probability](https://goo.gl/hyRxWq)
 - [Khan Academy lectures on linear algebra](https://goo.gl/HEAuqS)
-- [Machine learning](https://goo.gl/xmL23C) as taught by Andrew Ng
+- [Edx.org Course](https://goo.gl/ig4kZA) by University of California, San Diego
+- [Courera.org Course](https://goo.gl/yu4LWd) as taught by Andrew Ng 
+- [Machine learning](https://goo.gl/xmL23C) by Standford as taught by Andrew Ng
 - [Machine learning](https://goo.gl/Qe9pt2) as taught by Hal Daumé
 - [Machine learning](https://goo.gl/qjHUJR) as taught by Yaser Abu-Mostafa (the Caltech course based on Learning from Data)
 - [Talking machines](https://goo.gl/SKPXPD): A surprisingly interesting podcast about machine learning

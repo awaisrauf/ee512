@@ -7,8 +7,8 @@ permalink: /about/
 
 <div class="btn-group">
 <form>
-<input type="button" value="Piazza Class" onclick="window.location.href='https://piazza.com/itu.edu.pk/spring2018/ee512'" />
-<input type="button" value="Syllabus PDF" onclick="window.location.href='https://goo.gl/UEQiq7'" />
+<input type="button" value="Piazza Class" onclick="window.location.href='https://goo.gl/8e195g'" />
+<input type="button" value="Syllabus PDF" onclick="window.location.href='https://goo.gl/CKMqL4'" />
 </form>
   
 </div>
