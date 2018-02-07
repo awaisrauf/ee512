@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Overview
+title: Assignments
 permalink: /assignments/
 ---
-
-dfd
+Assignments will be uploaded alongside the course. 
