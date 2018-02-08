@@ -7,5 +7,6 @@ permalink: /course_notes/
 
 #### Course overview 
 ___
-- Introduction [slides]() [Notes]()
+- Lec1: Introduction [slides](https://goo.gl/afZAyn) 
+- Lec2: A look at Generalization [Notes](https://goo.gl/Yg26UV)
 
