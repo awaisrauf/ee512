@@ -7,6 +7,29 @@ permalink: /resources/
 ___
 - [Khan Academy lectures on probability](https://goo.gl/hyRxWq)
 - [Khan Academy lectures on linear algebra](https://goo.gl/HEAuqS)
+- Linear Algebra 
+  Here are video lectures containing some essential linear algebra concepts which will be required for upcoming lectures and assignments.
+  - Norms and Inner Products
+    - [1](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
+  - Orthogonal Vectors and Matrices 
+    - [1](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/)
+    - [2](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/)
+
+  - Linear Independence:
+    - [1](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
+    - [2](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/)
+ 
+
+ 
+
+  - Eigen Values and Eigen Decomposition:
+    - [1](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/)
+    - [2](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/)
+  - Singular Value Decomposition
+    - [1](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/)
+ 
+### Other Useful Machine Learning Courses
+___
 - [Edx.org Course](https://goo.gl/ig4kZA) by University of California, San Diego
 - [Courera.org Course](https://goo.gl/yu4LWd) as taught by Andrew Ng 
 - [Machine learning](https://goo.gl/xmL23C) by Standford as taught by Andrew Ng
