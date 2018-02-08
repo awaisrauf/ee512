@@ -25,7 +25,16 @@ We will study both practical algorithms for statistical inference and theoretica
 
 ### Prerequisites
 ___
-Throughout this course we will take a statistical perspective, which will require familiarity with basic concepts in probability (e.g., random variables, expectation, independence, joint distribu- tions, conditional distributions, Bayes rule, and the multivariate normal distribution). We will also be using the language of linear algebra to describe the algorithms and carry out any analysis, so you should be familiar with concepts such as norms, inner products, orthogonality, linear independence, eigenvalues/vectors, eigenvalue decompositions, etc. as well as the basics of multivariable calculus such as partial derivatives, gradients, and the chain rule. If you have had courses on these topics as an undergraduate (or more recently) you should be able to fill in any gaps in your understanding as the semester progresses. Finally, many of the homework assignments and the course projects will require the use of MATLAB. Students should also have basic MATLAB programming skills.
+Throughout this course we will take a statistical perspective, which will require familiarity with basic
+concepts in probability (e.g., random variables, expectation, independence, joint distribu- tions,
+conditional distributions, Bayes rule, and the multivariate normal distribution). We will also be using
+the language of linear algebra to describe the algorithms and carry out any analysis, so you should be
+familiar with concepts such as norms, inner products, orthogonality, linear independence, 
+eigenvalues/vectors, eigenvalue decompositions, etc. as well as the basics of multivariable calculus
+such as partial derivatives, gradients, and the chain rule. If you have had courses on these topics
+as an undergraduate (or more recently) you should be able to fill in any gaps in your understanding as
+the semester progresses. Finally, many of the homework assignments and the course projects will require
+the use of Python. Students should also have basic Python programming skills.
 
 ### Instructor
 ___
