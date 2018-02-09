@@ -9,7 +9,6 @@ ___
   - Courses 
     - [Khan Academy lectures on probability](https://goo.gl/hyRxWq)
 	- [Stat110](https://goo.gl/hNrGRc) of Harvard University
-- 
 - Linear Algebra
   - Courses
     - [Khan Academy lectures on linear algebra](https://goo.gl/HEAuqS) 
