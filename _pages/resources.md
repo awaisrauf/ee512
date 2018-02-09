@@ -3,7 +3,7 @@ layout: page
 title: Course Notes
 permalink: /resources/
 ---
-### Resources to Cover Background material
+### Resources to Cover Background Material
 ___
 - Probability
   - Courses 
@@ -15,24 +15,16 @@ ___
     - [Khan Academy lectures on linear algebra](https://goo.gl/HEAuqS) 
 	- [MIT's course](https://goo.gl/imBhyi) as taught by Gilbert Strang
   - Essential Topics that you should know.
-	- Norms and Inner Products
-	  - [1](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
-    - Orthogonal Vectors and Matrices 
-      - [1](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-14-orthogonal-vectors-and-subspaces/)
-      - [2](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-17-orthogonal-matrices-and-gram-schmidt/)
-    - Linear Independence:
-      - [1](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-independence/v/linear-algebra-introduction-to-linear-independence)
-      - [2](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/)
-    - Eigen Values and Eigen Decomposition:
-      - [1](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-21-eigenvalues-and-eigenvectors/)
-      - [2](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/)
-    - Singular Value Decomposition
-      - [1](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-29-singular-value-decomposition/)
+	- Norms and Inner Products [1](https://goo.gl/GD97sc)
+    - Orthogonal Vectors and Matrices [1](https://goo.gl/vfEbWn) [2](https://goo.gl/xYa2k8)
+    - Linear Independence [1](https://goo.gl/43FZ4W) [2](https://goo.gl/5WLmgD)
+    - Eigen Values and Eigen Decomposition [1](https://goo.gl/Gcx7sy) [2](https://goo.gl/52gkTs)
+    - Singular Value Decomposition [1](https://goo.gl/WuUn18)
  
 ### Other Useful Machine Learning Courses
 ___
 - [Edx.org Course](https://goo.gl/ig4kZA) by University of California, San Diego
-- [Courera.org Course](https://goo.gl/yu4LWd) as taught by Andrew Ng 
+- [Courera.org Course](https://goo.gl/yu4LWd) as taught by Andrew Ng (You can cover this course in 3,4 weeks)
 - [Machine learning](https://goo.gl/xmL23C) by Standford as taught by Andrew Ng
 - [Machine learning](https://goo.gl/Qe9pt2) as taught by Hal Daumé
 - [Machine learning](https://goo.gl/qjHUJR) as taught by Yaser Abu-Mostafa (the Caltech course based on Learning from Data)
