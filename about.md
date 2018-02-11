@@ -14,9 +14,9 @@ permalink: /about/
 </div>
 
 ### Class Time and Venue
-Tuesday 07:15 P.M. - 08:45 P.M. on LT5 (Level 6)
+Tuesday 07:15 P.M. - 08:45 P.M. at LT5 (Level 6)
 
-Thursday 05:30 P.M. - 07:00 P.M. on LT5 (Level 6)
+Thursday 05:30 P.M. - 07:00 P.M. at LT5 (Level 6)
 
 TA sessions will be announced alongside the course.  
 ### Summary
