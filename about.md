@@ -69,11 +69,15 @@ s in signal processing, and machine learning. His PhD research includes a signif
 the important blind deconvolution problem in signal processing and communications. </p>
 ### Teaching Assistant
 We will have two TAs for this course.
-
+<style>
 .circular-image {
   border-radius:  50%;
+  max-width:25%;
+  max-height:25%;
 }
-</p>
+
+</style>
+
 <div>
   <img img src="{{ site.baseurl }}/images/Asim.jpg" alt="Asim" class="circular-image" />
   <figcaption>Muhammad Asim msee16001@itu.edu.pk</figcaption>
@@ -82,12 +86,7 @@ We will have two TAs for this course.
 </div>
 
 
-#### Muhammad Asim
 
-
-Email: msee16001@itu.edu.pk
-#### Muhammad Awais
-Email: msee16019@itu.edu.pk
 
 ### Grading
 ___
