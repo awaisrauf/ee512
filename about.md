@@ -46,6 +46,8 @@ the use of Python. Students should also have basic Python programming skills.
 ### Instructor
 ___
 #### Dr. Ali Ahmed
+
+
 *Email*: ali.ahmed@itu.edu.pk
 
 *Office*: EE-Department - 4th floor, ASTP, Lahore.
@@ -69,6 +71,7 @@ s in signal processing, and machine learning. His PhD research includes a signif
 the important blind deconvolution problem in signal processing and communications. </p>
 ### Teaching Assistant
 We will have two TAs for this course.
+
 <style>
 .circular-image {
   border-radius:  50%;
@@ -84,6 +87,8 @@ We will have two TAs for this course.
   <img img src="{{ site.baseurl }}/images/Awais.jpg" alt="Awais" class="circular-image" />
   <figcaption>Muhammad Awais msee16019@itu.edu.pk</figcaption>
 </div>
+
+
 
 
 
