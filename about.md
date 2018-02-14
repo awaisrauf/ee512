@@ -18,7 +18,9 @@ Tuesday 07:15 P.M. - 08:45 P.M. at LT5 (Level 6)
 
 Thursday 05:30 P.M. - 07:00 P.M. at LT5 (Level 6)
 
-TA sessions will be announced alongside the course.  
+TA sessions will be announced alongside the course.
+
+TA Office Hours: Every Thursday 2:30 P.M. - 5.30 P.M. in SPIDER Lab Level 4  
 ### Summary
 ___
 <p>This course will provide an introduction to the theory of statistical learning and practical machine 
