@@ -6,4 +6,4 @@ permalink: /assignments/
 Assignments will be uploaded alongside the course. 
 
 - [Pretest](https://goo.gl/yBam9L)
-- Homework [pdf](https://goo.gl/GbWpGa)[knn-example.py](https://goo.gl/42XHZd)[hist-example.py](https://goo.gl/MCAi5x)
+- Homework  - [pdf](https://goo.gl/GbWpGa) - [knn-example.py](https://goo.gl/42XHZd) - [hist-example.py](https://goo.gl/MCAi5x)
