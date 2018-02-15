@@ -22,7 +22,7 @@ ___
 	
 ### Python resources
 ___
-- [Jupyter Notebook (all coding assignments should be in this format)](https://goo.gl/vXK1dx)
+- [Jupyter Notebook ](https://goo.gl/vXK1dx) (all coding assignments should be in this format)
 - [Anaconda Python distribution]((https://www.anaconda.com/download/)) (I recommend installing Python 2.7)
 - [Official Python documentation](https://www.python.org/)
 - [Google's Python class](https://goo.gl/ZEsFiS)
