@@ -12,6 +12,6 @@ ___
    - Related topics [Hoffeding Inequality](https://en.wikipedia.org/wiki/Hoeffding%27s_inequality) 
      [Markov Inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality) 
 	 [Union Bound](https://en.wikipedia.org/wiki/Boole%27s_inequality)
-- TA_Ses1 (13 Feb, 4-5 P.M.): Prove of Hoffeding Inequality
+- TA Ses1 (13 Feb, 4-5 P.M.): Prove of Hoffeding Inequality
 - Lec3: Bayes Classifier and Nearest Neighbour [(slides)](https://goo.gl/4S81up) [(Notes)](https://goo.gl/MjnEXx)
 
