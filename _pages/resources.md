@@ -20,7 +20,7 @@ ___
     - Eigen Values and Eigen Decomposition [1](https://goo.gl/Gcx7sy) [2](https://goo.gl/52gkTs)
     - Singular Value Decomposition [1](https://goo.gl/WuUn18)
 	
-### Python resources
+### Python Resources
 ___
 - [Jupyter Notebook ](https://goo.gl/vXK1dx) (all coding assignments should be in this format)
 - [Anaconda Python distribution]((https://www.anaconda.com/download/)) (I recommend installing Python 2.7)
