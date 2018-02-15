@@ -19,6 +19,7 @@ ___
     - Linear Independence [1](https://goo.gl/43FZ4W) [2](https://goo.gl/5WLmgD)
     - Eigen Values and Eigen Decomposition [1](https://goo.gl/Gcx7sy) [2](https://goo.gl/52gkTs)
     - Singular Value Decomposition [1](https://goo.gl/WuUn18)
+	
 ### Python resources
 ___
 - [Jupyter Notebook (all coding assignments should be in this format)](https://goo.gl/vXK1dx)
