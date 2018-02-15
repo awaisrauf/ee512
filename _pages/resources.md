@@ -19,6 +19,18 @@ ___
     - Linear Independence [1](https://goo.gl/43FZ4W) [2](https://goo.gl/5WLmgD)
     - Eigen Values and Eigen Decomposition [1](https://goo.gl/Gcx7sy) [2](https://goo.gl/52gkTs)
     - Singular Value Decomposition [1](https://goo.gl/WuUn18)
+### Python resources
+___
+- [Jupyter Notebook (all coding assignments should be in this format)](https://goo.gl/vXK1dx)
+- [Anaconda Python distribution]((https://www.anaconda.com/download/)) (I recommend installing Python 2.7)
+- [Official Python documentation](https://www.python.org/)
+- [Google's Python class](https://goo.gl/ZEsFiS)
+- [Another Python tutorial](http://www.learnpython.org/)
+- [SciPy tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
+- [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
+- [Python quick reference sheet](http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- Python for Data Analysis, McKinney, 2012. [(Amazon)](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=davenpwebsit-20&linkId=dc22c252f7cd93755dec697354f87c20)
  
 ### Other Useful Machine Learning Courses
 ___
@@ -59,14 +71,3 @@ ___
 - All of Statistics, Wasserman, 2004. Exactly what the title says. (Amazon)
 - Linear Algebra and Its Applications, Strang, 2005. A great introduction to linear algebra. (Amazon)
 - Convex Optimization, Boyd, 2004. We will cover the tools from convex optimization that we need as part of the course, but if you want to know more, this is a great resource targeted towards electrical engineers. ([Free online version](https://goo.gl/pbNMav), Amazon)
-### Python resources
-___
-- [Anaconda Python distribution]((https://www.anaconda.com/download/)) (I recommend installing Python 2.7)
-- [Official Python documentation](https://www.python.org/)
-- [Google's Python class](https://goo.gl/ZEsFiS)
-- [Another Python tutorial](http://www.learnpython.org/)
-- [SciPy tutorial](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html)
-- [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)
-- [Python quick reference sheet](http://www.astro.up.pt/~sousasag/Python_For_Astronomers/Python_qr.pdf)
-- [scikit-learn](http://scikit-learn.org/stable/)
-- Python for Data Analysis, McKinney, 2012. [(Amazon)](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=davenpwebsit-20&linkId=dc22c252f7cd93755dec697354f87c20)
