@@ -7,7 +7,7 @@ permalink: /course_notes/
 
 #### Course overview 
 ___
-- Lec1 : Introduction [slides](https://goo.gl/afZAyn) 
+- Lec1 : Introduction [(slides)](https://goo.gl/afZAyn) 
 - Lec2: Learning Challenge and first look at Generalization [(Slides)](https://goo.gl/AFi3p2) [(Notes)](https://goo.gl/Yg26UV)
    - Related topics [Hoffeding Inequality](https://en.wikipedia.org/wiki/Hoeffding%27s_inequality) 
      [Markov Inequality](https://en.wikipedia.org/wiki/Markov%27s_inequality) 
