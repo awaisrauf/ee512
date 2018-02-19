@@ -14,4 +14,5 @@ ___
 	 [Union Bound](https://en.wikipedia.org/wiki/Boole%27s_inequality)
 - TA Ses1 (13 Feb, 4-5 P.M.): Prove of Hoffeding Inequality
 - Lec3: Bayes Classifier and Nearest Neighbour [(slides)](https://goo.gl/4S81up) [(Notes)](https://goo.gl/MjnEXx)
-
+- Lec4: Linear Discriminant Analysis [(Notes)](https://goo.gl/KKqGFc)
+- Lec5: Gradient Descent [(Notes)](https://goo.gl/dCv7mR)
