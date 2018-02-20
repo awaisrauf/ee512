@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Notes
+title: Resources 
 permalink: /resources/
 ---
 ### Resources to Cover Background Material
