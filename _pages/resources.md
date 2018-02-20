@@ -32,8 +32,7 @@ ___
 	- Khan Academy [Course](https://goo.gl/kWk97y)
     - MIT [OCW Course](https://goo.gl/rdEfHL)	
   - Essential Topics
-  
-	– Partial derivatives
+	- Partial derivatives
 	- Gradients
     - The chain rule
 - Programming 
