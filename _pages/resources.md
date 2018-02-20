@@ -27,16 +27,17 @@ ___
     - Linear Independence [1](https://goo.gl/43FZ4W) [2](https://goo.gl/5WLmgD)
     - Eigen Values and Eigen Decomposition [1](https://goo.gl/Gcx7sy) [2](https://goo.gl/52gkTs)
     - Singular Value Decomposition [1](https://goo.gl/WuUn18)
-- Multi-variable calculus
+- Multi-variable Calculus
   - Courses
 	- Khan Academy [Course](https://goo.gl/kWk97y)
     - MIT [OCW Course](https://goo.gl/rdEfHL)	
   - Essential Topics
+  
 	– Partial derivatives
 	- Gradients
     - The chain rule
 - Programming 
-  - Experience in any language 	
+  - Experience in any language but homeworks will be in python
 	
 	
 ### Python Resources
