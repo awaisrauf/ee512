@@ -61,6 +61,7 @@ ___
 - [Machine learning](https://goo.gl/Qe9pt2) as taught by Hal Daumé
 - [Machine learning](https://goo.gl/qjHUJR) as taught by Yaser Abu-Mostafa (the Caltech course based on Learning from Data)
 - [Talking machines](https://goo.gl/SKPXPD): A surprisingly interesting podcast about machine learning
+
 ### Papers
 ___
 - [Introduction to Statistical Learning Theory](https://goo.gl/b41Hgh), Bousquet, Boucheron, and Lugosi, 2004.
@@ -71,6 +72,7 @@ ___
 - [K-SVD: An algorithm for designing overcomplete dictionaries for sparse representation](https://goo.gl/MwhRxE), Aharon, Elad, and Bruckstein, 2006.
 - [An overview of low-rank matrix recovery from incomplete observations](https://arxiv.org/abs/1601.06422), Davenport and Romberg, 2016.
 - [Robust Principal Component Analysis?](https://goo.gl/ohqsMA) Candes, Li, Ma, and Wright, 2011.
+
 ### Books on statistical learning
 ___
 - Learning from Data, Abu-Mostafa, Magdon-Ismail, and Lin, 2012. This book is short and sweet. It doesn't cover everything we will talk about, but has a fantastic and very accessible overview of VC theory. (Amazon)
@@ -83,6 +85,7 @@ ___
 - Reinforcement Learning: An Introduction, Sutton and Barto, 1998. We will focus mostly on supervised and unsupervised learning, but this book is a good introduction to the key ideas in reinforcement learning. (Amazon)
 - The Signal and the Noise, Silver, 2012. A higher level book that examines several applications of the kinds of statistical learning techniques, including weather, earthquakes, athletic performance, and more. (Amazon)
 - The Master Algorithm, Domingos, 2015. A popular introduction to machine learning that also hits on some portions of the machine learning community that we will not emphasize much in this course. (Amazon)
+
 ### Books covering background material
 ___
 - How to Solve It, Polya, 1945. Classic introduction to mathematical problem solving. (You can find in Lincon's Inn Corner, 2nd Floor)(Amazon) 
