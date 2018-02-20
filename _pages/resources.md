@@ -9,6 +9,14 @@ ___
   - Courses 
     - [Khan Academy lectures on probability](https://goo.gl/hyRxWq)
 	- [Stat110](https://goo.gl/hNrGRc) of Harvard University
+  - Essential Topics
+    - Random variables
+	- Expectation
+	- Joint distributions
+    - Independence
+    - Conditional distributions
+    - Bayes rule
+    - Multivariate normal distribution
 - Linear Algebra
   - Courses
     - [Khan Academy lectures on linear algebra](https://goo.gl/HEAuqS) 
@@ -19,6 +27,17 @@ ___
     - Linear Independence [1](https://goo.gl/43FZ4W) [2](https://goo.gl/5WLmgD)
     - Eigen Values and Eigen Decomposition [1](https://goo.gl/Gcx7sy) [2](https://goo.gl/52gkTs)
     - Singular Value Decomposition [1](https://goo.gl/WuUn18)
+- Multi-variable calculus
+  - Courses
+	- Khan Academy [Course](https://goo.gl/kWk97y)
+    - MIT [OCW Course](https://goo.gl/rdEfHL)	
+  - Essential Topics
+	– Partial derivatives
+	- Gradients
+    - The chain rule
+- Programming 
+  - Experience in any language 	
+	
 	
 ### Python Resources
 ___
