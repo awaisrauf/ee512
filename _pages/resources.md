@@ -38,7 +38,6 @@ ___
 - Programming 
   - Experience in any language but homeworks will be in python
 	
-	
 ### Python Resources
 ___
 - [Jupyter Notebook ](https://goo.gl/vXK1dx) (all coding assignments should be in this format)
