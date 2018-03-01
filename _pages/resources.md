@@ -40,7 +40,8 @@ ___
 	
 ### Python Resources
 ___
-- [Jupyter Notebook ](https://goo.gl/vXK1dx) (all coding assignments should be in this format)
+- [Jupyter Notebook ](https://goo.gl/vXK1dx) (all python coding assignments should be in this format)
+- [Code Documentation in Matlab] (https://goo.gl/9e73vD) (all python coding assignments should be in this format)
 - [Anaconda Python distribution]((https://www.anaconda.com/download/)) (I recommend installing Python 2.7)
 - [Official Python documentation](https://www.python.org/)
 - [Google's Python class](https://goo.gl/ZEsFiS)
