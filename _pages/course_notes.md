@@ -16,5 +16,5 @@ ___
 - Lec3,4: Bayes Classifier and Nearest Neighbour [(slides)](https://goo.gl/4S81up) [(Notes)](https://goo.gl/MjnEXx)
 - Lec4,5,6,8: Linear Discriminant Analysis [(slides)](https://goo.gl/kdzYJh)[(Notes)](https://goo.gl/KKqGFc)
 - Lec5,6: Gradient Descent [(Notes)](https://goo.gl/dCv7mR)
-- Lec7: Newton's Method [(Notes)](https://goo.gl/8Sj53c
+- Lec7: Newton's Method [(Notes)](https://goo.gl/8Sj53c)
 - Lec8,9: Beyond plug-in methods [(Slides)](https://goo.gl/uDutWE)
