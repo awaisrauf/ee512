@@ -3,6 +3,17 @@ layout: page
 title: Course Notes
 permalink: /course_notes/
 ---
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-114988312-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-114988312-1');
+</script>
+</head>
 <font size="3" color="red">Relevant course slides will be uploaded alongside the course.</font>
 
 #### Course overview 
