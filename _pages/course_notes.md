@@ -21,5 +21,6 @@ ___
 - **Lec7**: Newton's Method [(Notes)](https://goo.gl/8Sj53c)
 - **Lec8,9**: Beyond plug-in methods [(Slides)](https://goo.gl/uDutWE)
 - **Lec9,10**: Kernal Methods [(Notes)](https://goo.gl/aRbE1W) [(Slides)](https://goo.gl/pby8D6)
+	- Week 6 from edx.org course
 - **Lec10,11,12**: Support Vector Machines [(Notes)](https://goo.gl/orjHgK) [(Slides)](https://goo.gl/hhJNoF)
 - **Lec13,14**: Theory of Generalization 1 [(Notes)]() [(Slides)](https://goo.gl/mU8xX9)
