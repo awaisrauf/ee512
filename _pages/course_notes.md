@@ -24,7 +24,10 @@ ___
 	- Week 6 from edx.org course
 - **Lec10,11,12**: Support Vector Machines [(Notes)](https://goo.gl/orjHgK) [(Slides)](https://goo.gl/hhJNoF)
 - **Lec13,14**: Theory of Generalization 1 [(Notes)]() [(Slides)](https://goo.gl/mU8xX9)
+
 ***
+
 ##### Mid terms 
 Instructions for mid term [piazza](https://piazza.com/class/jdbr14a4r092to?cid=33)
+
 ***
