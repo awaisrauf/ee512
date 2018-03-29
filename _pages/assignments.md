@@ -12,4 +12,7 @@ Assignments will be uploaded alongside the course.
    - TAses2: Homework 1 Solution 2 March
 - Homework2  - [(pdf)](https://goo.gl/tRGdVU) - [(Relevant Files)](https://goo.gl/9t78zo)
    - Python Sample Programming Solution [(Jupyter Notebook)](https://goo.gl/wG1cvA) [(pdf)](https://goo.gl/8Z4TXG) due mar 8.
-   - Matlab Sample Programming Solution [Coming Soon]()
+   - Matlab Sample Programming Solution [Coming Soon]()   
+   
+- Homework3  - [(pdf)](https://drive.google.com/open?id=15fhqBhzj22MdsSHUSPIFIFiectUbxNsy) 
+   
