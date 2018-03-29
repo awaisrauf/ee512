@@ -6,7 +6,7 @@ permalink: /course_notes/
 
 <font size="3" color="red">Relevant course slides will be uploaded alongside the course.</font>
 
-#### Course overview 
+#### Lecture Notes
 ___
 - **Lec1** : Introduction [(slides)](https://goo.gl/afZAyn) 
 - **Lec2,3**: Learning Challenge and first look at Generalization [(Slides)](https://goo.gl/AFi3p2) [(Notes)](https://goo.gl/Yg26UV)
@@ -24,5 +24,7 @@ ___
 	- Week 6 from edx.org course
 - **Lec10,11,12**: Support Vector Machines [(Notes)](https://goo.gl/orjHgK) [(Slides)](https://goo.gl/hhJNoF)
 - **Lec13,14**: Theory of Generalization 1 [(Notes)]() [(Slides)](https://goo.gl/mU8xX9)
+***
 ##### Mid terms 
 Instructions for mid term [piazza](https://piazza.com/class/jdbr14a4r092to?cid=33)
+***
