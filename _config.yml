@@ -46,7 +46,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 #    older: 'Older'
 
 # Comments
-3disqus_shortname: Machine Learning # put your disqus shortname
+#disqus_shortname: Machine Learning # put your disqus shortname
 
 # Optional features
 #show_social_icons:  true
