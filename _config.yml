@@ -32,41 +32,41 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: machine_learning
-blog_description: machine learning
+#blog_name: machine_learning
+#blog_description: machine learning
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+#paginate: 4
+#permalink: /blog/:year/:title/
+#paginate_path: /blog/page:num/
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
+#text:
+#  pagination:
+#    newer: 'Newer'
+#    older: 'Older'
 
 # Comments
-disqus_shortname: Machine Learning # put your disqus shortname
+3disqus_shortname: Machine Learning # put your disqus shortname
 
 # Optional features
-show_social_icons:  true
-enable_anchorjs:    false
-enable_katex:       true
+#show_social_icons:  true
+#enable_anchorjs:    false
+#enable_katex:       true
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+#collections:
+#  news:
+#    defaults:
+#      layout: post
+#    output: true
+#   permalink: /news/:path/
+#  projects:
+#   output: true
+#    permalink: /projects/:path/
 
-news_limit: 5
+#news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
