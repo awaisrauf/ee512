@@ -25,6 +25,6 @@ Assignments will be uploaded alongside the course.
 
 ***    
    
-- Homework3  - [(pdf)](https://drive.google.com/open?id=15fhqBhzj22MdsSHUSPIFIFiectUbxNsy) due April 10.
+- Homework3  - [(pdf)](https://drive.google.com/open?id=15fhqBhzj22MdsSHUSPIFIFiectUbxNsy) due April 10 (Extension in deadline, new deadline is April 17).
    
 ***    
