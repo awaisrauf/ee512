@@ -18,7 +18,7 @@ The topic for the project is up to you -- you may choose to center your project 
 > Note that the project is worth 25% of your overall grade, and is to be graded out of a total of 40 possible points, as described in the  
 sections below.  
  
-1. ## 1. Project Proposal 
+## 1. Project Proposal 
 ___  
 The first main deliverable for the final project is the project proposal to be turned in class on May 20. Each group must submit a single  
 proposal that contains the following information.  
