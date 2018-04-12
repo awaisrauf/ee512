@@ -5,7 +5,7 @@ permalink: /project/
 ---  
 ### Important Dates
 
-<div data-type="countdown" data-id="547125" class="tickcounter" style="width: 350px; height: 88px; margin: 0 auto"><a href="//www.tickcounter.com/countdown/547125/countdown-for-proposal-submission" title="Countdown for Proposal Submission Deadline">Countdown for Proposal Submission</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
+<div data-type="countdown" data-id="547125" class="tickcounter" style="width: 350px; height: 88px; margin: 0 auto"><a href="//www.tickcounter.com/countdown/547125/countdown-for-proposal-submission" title="Countdown for Proposal Submission Deadline">Countdown for Proposal Submission Deadline</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
 
 Final Submission: After Final Exam
 ___

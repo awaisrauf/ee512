@@ -3,7 +3,8 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
-Assignments will be uploaded alongside the course. 
+Assignments will be uploaded alongside the course.
+<div data-type="countdown" data-id="547138" class="tickcounter" style="width: 200px; height: 50px; margin: 0 auto"><a href="//www.tickcounter.com/countdown/547138/homework-countdown" title="Homework Countdown">Homework Countdown</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script> 
 
 ***
 
