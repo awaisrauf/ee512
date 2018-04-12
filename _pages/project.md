@@ -3,10 +3,7 @@ layout: page
 title: Course Project  
 permalink: /project/  
 ---  
-### Table of Contents
-1. [Project Proposal](#Project-Proposal)
-2. [Project Poster](#Project-Poster)
-3. [Final project report](#Final-project-report)
+
     
 A major component of this course consists of an in-depth project on a topic of your choosing. These projects will be done in groups of 2 to 3 students. The project will have several graded components, including  
 - a detailed (written) project proposal  
@@ -20,8 +17,8 @@ The topic for the project is up to you -- you may choose to center your project 
   
 > Note that the project is worth 25% of your overall grade, and is to be graded out of a total of 40 possible points, as described in the  
 sections below.  
-___  
-## Project Proposal [](#){name=Project-Proposal} 
+ 
+1. ## 1. Project Proposal 
 ___  
 The first main deliverable for the final project is the project proposal to be turned in class on May 20. Each group must submit a single  
 proposal that contains the following information.  
@@ -85,9 +82,11 @@ Your document should be single-spaced with a font size of 12pt or higher and mar
 - Is the document free of typos and spelling/grammatical errors?  
   
 - Are all figures legible?  
+
+
+## 2. Project Poster  
 ___  
-## Project Poster [](#){name=Project-Poster} 
-  
+ 
 The next main deliverable for the final project is the project poster to be presented on May 20. Being present for the poster session is mandatory for on-campus students. The poster should be modeled after a standard scientific/technical poster. (Ask/look around for examples if you've never seen one before.) You should print out your poster (try to do this early!) but I would also like an electronic (pdf) copy to be submitted to me via email as well. This should be submitted by 11:59pm, May 18, together with your final project report.  
   
 The poser will be graded out of 15 possible points, which will be assigned as follows.  
@@ -137,8 +136,11 @@ Finally, your poster/presentation should address
 - details such as how you selected any unknown parameters and how you dealt with validation/evaluation of your algorithm,  
   
 - **indications of which team member(s) were responsible for which portions of the project.**  
+
   
-## Final project report  [](#){name=Final-project-report}
+## 3. Final project report 
+___  
+
   
 The final report for the project should be submitted by 11:59pm, May 18 (together with the pdf copy of your poster). The report and the poster should be emailed to ali.ahmed@itu.edu.pk as attachments. The report must be single-spaced with a font-size of 12pt or higher, margins no smaller than 1 inch, and can be a maximum of 6 pages including figures and references. I will read/grade only the first 6 pages of whatever you send me, so do not exceed this limit. If you have accomplished a lot, it may sound difficult to fit everything into this page limit, but 6 pages is already a lot more than you will often get, and concisely summarizing the result of a complex project is a tremendously important skill. Also, if you can say everything in fewer pages, that is all the better. There is no page minimum.  
   
@@ -154,7 +156,7 @@ The final report must contain the following elements.
   
 The final report will be graded out of 15 possible points, which will be assigned as follows.  
   
-### Professionalism \[3 points\]  
+#### Professionalism \[3 points\]  
   
 - Is the report attractive, legible, and free of typos/grammatical errors?  
   
@@ -162,7 +164,7 @@ The final report will be graded out of 15 possible points, which will be assigne
   
 - Did you follow the above instructions?  
   
-### Overall writing quality \[3 points\]  
+#### Overall writing quality \[3 points\]  
   
 - Is the report clear and easy to read?  
   
@@ -170,7 +172,7 @@ The final report will be graded out of 15 possible points, which will be assigne
   
 - Do all ideas flow together in a clear/logical manner?  
   
-### Technical merit \[9 points\]  
+#### Technical merit \[9 points\]  
   
 - What is the overall quality of the work performed for the project?  
   
