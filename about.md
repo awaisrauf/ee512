@@ -194,3 +194,6 @@ Please join piazza from following link;
 <form>
 <input type="button" value="Piazza Claass" onclick="window.location.href='https://piazza.com/itu.edu.pk/spring2018/ee512'" />
 </form>
+___
+∗ Copyright. This course is designed by Prof. Justin Romberg of Georgia Tech., and he has all the publishing rights.
+___
