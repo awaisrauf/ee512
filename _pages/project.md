@@ -3,9 +3,11 @@ layout: page
 title: Course Project  
 permalink: /project/  
 ---  
-  
-  [TOC]
-  
+# Table of Contents
+1. [Project Proposal](#Project-Proposal)
+2. [Project Poster](#Project-Poster)
+3. [Final project report](#Final-project-report)
+    
 A major component of this course consists of an in-depth project on a topic of your choosing. These projects will be done in groups of 2 to 3 students. The project will have several graded components, including  
 - a detailed (written) project proposal  
 - a presentation  
@@ -16,7 +18,7 @@ tentatively scheduled on May 23. The written report will be due at the end of th
   
 The topic for the project is up to you -- you may choose to center your project around a particular problem/dataset that you have encountered in your research or elsewhere online, you could do a more theoretical investigation of some aspect related to machine learning, or you might instead choose to do a more in-depth investigation of some area of machine learning not covered in this course. You can also choose a project from the list given at the end of this page. Please feel free to consult early and often with Dr. Ali and the TA regarding the choice of the project topic.  
   
-Note that the project is worth 25% of your overall grade, and is to be graded out of a total of 40 possible points, as described in the  
+> Note that the project is worth 25% of your overall grade, and is to be graded out of a total of 40 possible points, as described in the  
 sections below.  
 ___  
 ## Project Proposal  
