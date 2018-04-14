@@ -35,3 +35,4 @@ Instructions for midterm is on [piazza](https://piazza.com/class/jdbr14a4r092to?
 ***
 
 - **Lec16,17**: Regression  [(Slides)](https://goo.gl/4TfHzL)
+- **Lec17,18**: Regularization in Regression and Classification [(Notes)](https://goo.gl/EhnFXw) [(Slides)](https://goo.gl/jQrg6S) 
