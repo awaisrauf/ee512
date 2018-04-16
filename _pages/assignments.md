@@ -4,8 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 Assignments will be uploaded alongside the course.
-<div data-type="countdown" data-id="547138" class="tickcounter" style="width: 200px; height: 50px; margin: 0 auto"><a href="//www.tickcounter.com/countdown/547138/homework-countdown" title="Homework Countdown">Homework Countdown</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script> 
-
+<div data-type="countdown" data-id="550631" class="tickcounter" style="width: 352px; height: 88px; margin: 0 auto"><a href="//www.tickcounter.com/countdown/550631/homework-3-submission-countdown" title="Homework 3 Submission Countdown">Homework 3 Submission Countdown</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
 ***
 
 - [Pretest](https://goo.gl/yBam9L)

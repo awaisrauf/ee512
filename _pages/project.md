@@ -16,8 +16,8 @@ A major component of this course consists of an in-depth project on a topic of y
 - a presentation  
 - a written report.  
   
-The project proposal is tentatively scheduled to be due on May 23. The presentations will be in the format of a poster session,  
-tentatively scheduled on May 23. The written report will be due at the end of the finals period.  
+The project proposal is tentatively scheduled to be due on April 23. The presentations will be in the format of a poster session,  
+tentatively scheduled on April 23. The written report will be due at the end of the finals period.  
   
 The topic for the project is up to you -- you may choose to center your project around a particular problem/dataset that you have encountered in your research or elsewhere online, you could do a more theoretical investigation of some aspect related to machine learning, or you might instead choose to do a more in-depth investigation of some area of machine learning not covered in this course. You can also choose a project from the list given at the end of this page. Please feel free to consult early and often with Dr. Ali and the TA regarding the choice of the project topic.  
   
@@ -26,7 +26,7 @@ sections below.
  
 ## 1. Project Proposal 
 ___  
-The first main deliverable for the final project is the project proposal to be turned in class on May 20. Each group must submit a single  
+The first main deliverable for the final project is the project proposal to be turned in class on April 23. Each group must submit a single  
 proposal that contains the following information.  
   
 ### Project summary  
