@@ -39,3 +39,4 @@ Instructions for midterm is on [piazza](https://piazza.com/class/jdbr14a4r092to?
 - **Lec19,20**: Bias Variance Trade off [(Slides)](https://drive.google.com/open?id=1S4kY0pCjra0G614QB3oePk8Y28UhfGnj)
 - **Lec20,21**: Model Selection [(Slides)](https://drive.google.com/open?id=1QIqTttPEmFbrACh5rAFgRDiNq8DMeWNW)
 - **Lec22,23,24**: Dimensionality Reduction and PCA [(Slides)](https://drive.google.com/open?id=1sUULhK5rkCk6IgCnL1ghZB7ZYpLaeiYr) [(Notes)](https://drive.google.com/file/d/100zCCkvOsD9JoJLeObKT7UDyxWaJe91H/view?usp=sharing)
+- **Lec25**: Multidimensional Scaling [(Slides)](https://drive.google.com/file/d/1kDlNBZWxaxncN0zHFsoh3EqVaD7FYkKg/view?usp=sharing)
