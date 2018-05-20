@@ -36,7 +36,7 @@ Since all of you will soon start working on your projects, we will be sharing so
 
  
 
-[Random Search for Hyper-Parameter Optimization[(http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
+[Random Search for Hyper-Parameter Optimization](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 
  
 
