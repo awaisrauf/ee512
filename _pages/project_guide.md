@@ -52,8 +52,8 @@ But searching in hyper-parameter space blindly is not a good idea. You may want 
 
 Here is another very interesting paper from nips.
 
-An Empirical Bayes Approach to Optimizing Machine Learning Algorithms](https://papers.nips.cc/paper/6864-an-empirical-bayes-approach-to-optimizing-machine-learning-algorithms.pdf)
+[An Empirical Bayes Approach to Optimizing Machine Learning Algorithms](https://papers.nips.cc/paper/6864-an-empirical-bayes-approach-to-optimizing-machine-learning-algorithms.pdf)
 
  
 
-[This is an active area of research and you can find very good study material as well.
+This is an active area of research and you can find very good study material as well.
