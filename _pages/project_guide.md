@@ -14,7 +14,9 @@ Following are some resources to help you explore related projects.
 5. Mercedes-Benz Greener Manufacturing [(link)](https://www.kaggle.com/c/mercedes-benz-greener-manufacturing) 
 6. Web Traffic Time Series Forecasting [(link)](https://www.kaggle.com/c/web-traffic-time-series-forecasting)  
 7. Personalized Medicine: Redefining Cancer Treatment [(link)](https://www.kaggle.com/c/msk-redefining-cancer-treatment)  
+
 ### Helpful Resources 
+
 1. cs229 2014 [Projects](http://cs229.stanford.edu/projects2014.html)
 2. cs229 2016 [Projects](http://cs229.stanford.edu/projects2016.html)
 3. Kaggle for datasets and competitions [link](https://www.kaggle.com)
