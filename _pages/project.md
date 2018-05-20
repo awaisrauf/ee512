@@ -11,6 +11,8 @@ Second Meeting: 21 May<br>
 Poster Session: 30 May<br>
 Final Submission: After Final Exam <br>
 
+
+Project Guidelines
 ___
 
 A major component of this course consists of an in-depth project on a topic of your choosing. These projects will be done in groups of 2 to 3 students. The project will have several graded components, including  
@@ -30,9 +32,9 @@ Extra Credits:
 - Good demo on poster presentation 5% (Apart from 40%) 
 - Well documented code
  
-___ 
 
 ## Project Components
+___
 Read these links to learn about the requirements of other components. 
 <a href="{{ '/project_proposal/' | prepend: site.baseurl | prepend: site.url }}">Project Proposal</a> <br>
 <a href="{{ '/project_poster/' | prepend: site.baseurl | prepend: site.url }}">Poster and Presentation</a> <br>
