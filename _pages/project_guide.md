@@ -24,7 +24,7 @@ Following are some resources to help you explore related projects.
 ## Getting Started with your Project
 ___
 I have seen some groups stuck in the initial phase of their project where they have no idea what to do. If so, watch following video from Andrew Ng course for getting started advice.
-https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate
+[Build your first system quickly then iterate](https://www.coursera.org/learn/machine-learning-projects/lecture/jyWpn/build-your-first-system-quickly-then-iterate)
 
 And if you got some extra time, skim through following, very short course that will definitely help you devise a proper strategy for your project.
 
