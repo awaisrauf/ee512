@@ -39,7 +39,7 @@ ___
 Read these links to learn about the requirements of other components. <br>
 <a href="{{ '/project_proposal/' | prepend: site.baseurl | prepend: site.url }}">Project Proposal</a> <br>
 <a href="{{ '/project_poster/' | prepend: site.baseurl | prepend: site.url }}">Poster and Presentation</a> <br>
-<a href="{{ '/project_poster/' | prepend: site.baseurl | prepend: site.url }}">Final Report</a> <br>
+<a href="{{ '/project_report/' | prepend: site.baseurl | prepend: site.url }}">Final Report</a> <br>
 <a href="{{ '/project_guide/' | prepend: site.baseurl | prepend: site.url }}">Guidance for Project</a> <br>
 
 
