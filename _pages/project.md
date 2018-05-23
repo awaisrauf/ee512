@@ -12,6 +12,9 @@ Poster Session: 30 May<br>
 Final Submission: After Final Exam <br>
 
 
+<a href="{{ '/event_registration/' | prepend: site.baseurl | prepend: site.url }}">Event Registration Form</a> <br>
+
+
 ## Project Guidelines
 ___
 
