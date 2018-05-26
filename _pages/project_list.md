@@ -4,7 +4,6 @@ title: Projects List
 permalink: /project_list/  
 ---  
 ### Types of Projects 
-Following chart shows types of projects that will be exhibited with poster and demos.
 <iframe width="635.5296495956874" height="392.9506828528073" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXuJJ5HBvhd43Cj8xG5ONbNxjo3UGJq9HhYNbhHogJ_M01Y88rkRVLDhRvT71tbiiMvEJBHsrOHeD/pubchart?oid=2141116550&amp;format=interactive"></iframe>
 
 ### Project Titles 
