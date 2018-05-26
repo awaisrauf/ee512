@@ -8,7 +8,7 @@ permalink: /project_poster/
  
 The next main deliverable for the final project is the project poster to be presented on May 30. Being present for the poster session is mandatory for on-campus students. 
 The poster should be modeled after a standard scientific/technical poster. 
-You should print out your poster (try to do this early!) but I would also like an electronic (pdf) copy to be submitted to me via email as well. This should be submitted by 11:59pm, May 29,.
+You should print out your poster (try to do this early!) but I would also like an electronic (pdf) copy to be submitted to me via email as well. This should be submitted by 11:59pm, May 28,.
 For poster template and related instructions, use this [link]()  
   
 The poser will be graded out of 15 possible points, which will be assigned as follows.  

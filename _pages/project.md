@@ -16,6 +16,9 @@ Final Submission: After Final Exam <br>
    <a href="{{ '/event_registration/' | prepend: site.baseurl | prepend: site.url }}">Event Registration Form</a> <br>
 - Poster Template
    <a href="{{ '/project_poster_template/' | prepend: site.baseurl | prepend: site.url }}">Poster Template</a> <br>
+- Project list
+   <a href="{{ '/project_list/' | prepend: site.baseurl | prepend: site.url }}">Poster Template</a> <br>
+
  
 
 
