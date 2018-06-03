@@ -21,6 +21,10 @@ Thursday 05:30 P.M. - 07:00 P.M. at LT5 (Level 6)
 TA sessions will be announced alongside the course.
 
 TA Office Hours: Every Thursday 2:30 P.M. - 5.30 P.M. in SPIDER Lab Level 4  
+
+### Poster Exhibition by Students of the Course to Present their Projects
+https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FITU.punjab%2Fposts%2F1976097152402669&width=500
+
 ### Summary
 ___
 <p>This course will provide an introduction to the theory of statistical learning and practical machine 
