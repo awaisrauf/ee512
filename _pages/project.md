@@ -22,6 +22,10 @@ Final Submission: After Final Exam <br>
 ## Project Poster Exhibition Highlights 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FITU.punjab%2Fposts%2F1976097152402669&width=500" width="500" height="770" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
+### Media Coverage of Event
+- [The News](https://www.thenews.com.pk/print/322755-itu-expo)
+- [Business Recorder](https://epaper.brecorder.com/2018/05/29/15-page/719506-news.html)
+
 ## Project Guidelines
 ___
 
