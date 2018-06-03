@@ -19,8 +19,8 @@ Final Submission: After Final Exam <br>
 - Project list
    <a href="{{ '/project_list/' | prepend: site.baseurl | prepend: site.url }}">Project List</a> <br>
 
- 
-
+## Project Poster Exhibition Highlights 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FITU.punjab%2Fposts%2F1976097152402669&width=500" width="500" height="770" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 ## Project Guidelines
 ___
