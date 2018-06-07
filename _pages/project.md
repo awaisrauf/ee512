@@ -22,7 +22,8 @@ Final Submission: After Final Exam <br>
 ### Media Coverage of Event
 - [The News](https://www.thenews.com.pk/print/322755-itu-expo)
 - [Business Recorder](https://epaper.brecorder.com/2018/05/29/15-page/719506-news.html)
-- [Information Technology University](https://www.facebook.com/ITU.punjab/posts/1976097152402669)
+- [Information Technology University Facebook](https://www.facebook.com/ITU.punjab/posts/1976097152402669)
+- [Information Technology University Website](https://itu.edu.pk/itu-latest-news/artificial-intelligence-playing-important-role-in-knowledge-economy-dr-umar-saif-vc-itu/)
 
 ## Project Guidelines
 ___
