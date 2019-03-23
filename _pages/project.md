@@ -3,6 +3,16 @@ layout: page
 title: Course Project  
 permalink: /project/  
 ---  
+
+<style>
+img { 
+  width: 50%;
+  height:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+</style>
 ## Important Dates
 
 Proposal Submission: 23 April<br>
@@ -24,6 +34,11 @@ Final Submission: After Final Exam <br>
 - [Business Recorder](https://epaper.brecorder.com/2018/05/29/15-page/719506-news.html)
 - [Information Technology University Facebook](https://www.facebook.com/ITU.punjab/posts/1976097152402669)
 - [Information Technology University Website](https://itu.edu.pk/itu-latest-news/artificial-intelligence-playing-important-role-in-knowledge-economy-dr-umar-saif-vc-itu/)
+
+### Event Invitation Card 
+
+<img src="https://raw.githubusercontent.com/awaisrauf/ee512/master/images/invitation.png" alt="invitation letter" width="128" height="128">
+
 
 ## Project Guidelines
 ___
