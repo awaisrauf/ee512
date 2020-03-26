@@ -6,25 +6,25 @@ permalink: /project_list/
 ### Types of Projects 
 <iframe width="635.5296495956874" height="392.9506828528073" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRuXuJJ5HBvhd43Cj8xG5ONbNxjo3UGJq9HhYNbhHogJ_M01Y88rkRVLDhRvT71tbiiMvEJBHsrOHeD/pubchart?oid=2141116550&amp;format=interactive"></iframe>
 
-### Project Titles 
+### Project Details
 List of projects that presented with poster and demos.
 - [x] **Keystroke based Biometric Verification**
 
   [[Poster]](https://drive.google.com/file/d/1dUFUGx_743ylqhF39uOjfoVtOHUu2dxO) [[Report]](https://drive.google.com/file/d/1m3J8bi3NcoUdhPiTUHFbWC-FynEcXKb-/)
   
-  *Summary*: We use keystroke pattern of an individual for the biometric authentication method. The keyboard stroke patterns of a user are            continuously monitored, the flight and dwell time for each key are used, and the pattern of these extracted features is                  checked against the individual’s unique typing pattern to provide a continuous risk rating.
+  *<u>Summary</u>*: We use keystroke pattern of an individual for the biometric authentication method. The keyboard stroke patterns of a user are            continuously monitored, the flight and dwell time for each key are used, and the pattern of these extracted features is                  checked against the individual’s unique typing pattern to provide a continuous risk rating.
   
 - [x] **Toxic Comment Classification**
 
   [[Poster]](https://drive.google.com/open?id=19CSuyJz9Z67z9dhNvX8HrgLd4uDWKO3d) [[Report]](https://drive.google.com/file/d/19TFc3anHDgflAkkppUOCp3WQ7ogU56U3/view?usp=sharing)
 
-  *Summary*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs   and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the   others.
+  *<u>Summary</u>*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs   and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the   others.
 
 - [x] **Medical Diagnosis through Retinal Fundus Images**
 
   [[Poster]](https://drive.google.com/file/d/1Nr4mTLgo-wNDSjrOJbVxRxcTSH-I0SJ4/view?usp=sharing) [[Report]](https://drive.google.com/file/d/1mT20WcPP5fYpl7seCWTFs2G9GS2nQQHj)
 
-  *Summary*:A solution is established to treat blindness retinal disease based on deep learning framework. This solution utilizes         optical coherence tomography (OCT) images of retinal layers and trains a neural network with scratch. A transfer learning technique     has also been applied on image data and data augmentation has also been done. Lastly, significance of segmentation channels with          corresponding input images have also been analysed.
+  *<u>Summary</u>*:A solution is established to treat blindness retinal disease based on deep learning framework. This solution utilizes         optical coherence tomography (OCT) images of retinal layers and trains a neural network with scratch. A transfer learning technique     has also been applied on image data and data augmentation has also been done. Lastly, significance of segmentation channels with          corresponding input images have also been analysed.
   
 - Personalized Medicine: Redefining Cancer Treatment
 - Classification of Sleep Disorder and Sleep Stages using Machine Learning Techniques
