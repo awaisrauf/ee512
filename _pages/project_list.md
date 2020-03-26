@@ -16,6 +16,8 @@ List of projects that presented with poster and demos.
   
 - [x] **Toxic Comment Classification**
 
+  [[Poster]](https://drive.google.com/open?id=19CSuyJz9Z67z9dhNvX8HrgLd4uDWKO3d) [[Report]](https://drive.google.com/file/d/19TFc3anHDgflAkkppUOCp3WQ7ogU56U3/view?usp=sharing)
+
   *Summary*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs   and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the   others.
 
 - Medical Diagnosis through Retinal Fundus Images
