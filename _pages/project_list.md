@@ -8,7 +8,9 @@ permalink: /project_list/
 
 ### Project Titles 
 List of projects that presented with poster and demos.
-- Keystroke based Biometric Verification
+- [x] **Keystroke based Biometric Verification**
+  [[Poster]](https://drive.google.com/file/d/1dUFUGx_743ylqhF39uOjfoVtOHUu2dxO) [[Report]](https://drive.google.com/file/d/1m3J8bi3NcoUdhPiTUHFbWC-FynEcXKb-/)
+  Summary: We use keystroke pattern of an individual for the biometric authentication method. The keyboard stroke patterns of a user are            continuously monitored, the flight and dwell time for each key are used, and the pattern of these extracted features is                  checked against the individual’s unique typing pattern to provide a continuous risk rating.
 - Toxic Comment Classification
 - Medical Diagnosis through Retinal Fundus Images
 - Personalized Medicine: Redefining Cancer Treatment
