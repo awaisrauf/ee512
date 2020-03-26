@@ -20,7 +20,12 @@ List of projects that presented with poster and demos.
 
   *Summary*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs   and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the   others.
 
-- Medical Diagnosis through Retinal Fundus Images
+- [x] **Medical Diagnosis through Retinal Fundus Images**
+
+  [[Poster]](https://drive.google.com/file/d/1Nr4mTLgo-wNDSjrOJbVxRxcTSH-I0SJ4/view?usp=sharing) [[Report]](https://drive.google.com/file/d/1mT20WcPP5fYpl7seCWTFs2G9GS2nQQHj)
+
+  *Summary*:A solution is established to treat blindness retinal disease based on deep learning framework. This solution utilizes         optical coherence tomography (OCT) images of retinal layers and trains a neural network with scratch. A transfer learning technique     has also been applied on image data and data augmentation has also been done. Lastly, significance of segmentation channels with          corresponding input images have also been analysed.
+  
 - Personalized Medicine: Redefining Cancer Treatment
 - Classification of Sleep Disorder and Sleep Stages using Machine Learning Techniques
 - Gunshot Detection
