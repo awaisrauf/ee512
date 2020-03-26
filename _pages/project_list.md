@@ -1,6 +1,4 @@
-
-
-﻿---  
+---  
 layout: page  
 title: Projects List
 permalink: /project_list/  
