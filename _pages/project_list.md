@@ -16,7 +16,7 @@ List of projects that presented with poster and demos.
   
 - [x] **Toxic Comment Classification**
 
-*Summary*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the others.
+  *Summary*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs   and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the   others.
 
 - Medical Diagnosis through Retinal Fundus Images
 - Personalized Medicine: Redefining Cancer Treatment
