@@ -9,9 +9,17 @@ permalink: /about/
 <form>
 <input type="button" value="Piazza Class" onclick="window.location.href='https://goo.gl/8e195g'" />
 <input type="button" value="Syllabus PDF" onclick="window.location.href='https://goo.gl/CKMqL4'" />
+  <input type="button" value="Syllabus PDF" onclick="window.location.href='https://awaisrauf.github.io/ee512//project_list/'" />
 </form>
   
 </div>
+
+### Projects
+List of all the projects made by students for this class and prsented in poster sesssion. [link](https://awaisrauf.github.io/ee512//project_list/)
+
+### Poster Exhibition by Students of the Course to Present their Projects
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FITU.punjab%2Fposts%2F1976097152402669&width=500" width="500" height="770" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
 
 ### Class Time and Venue
 Tuesday 07:15 P.M. - 08:45 P.M. at LT5 (Level 6)
@@ -22,8 +30,6 @@ TA sessions will be announced alongside the course.
 
 TA Office Hours: Every Thursday 2:30 P.M. - 5.30 P.M. in SPIDER Lab Level 4  
 
-### Poster Exhibition by Students of the Course to Present their Projects
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FITU.punjab%2Fposts%2F1976097152402669&width=500" width="500" height="770" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 
 ### Summary
