@@ -11,22 +11,22 @@ permalink: /project_list/
 List of projects that presented with poster and demos.
 -  **Keystroke based Biometric Verification**
 
-  [[Poster]](https://drive.google.com/file/d/1dUFUGx_743ylqhF39uOjfoVtOHUu2dxO) [[Report]](https://drive.google.com/file/d/1m3J8bi3NcoUdhPiTUHFbWC-FynEcXKb-/)
-  
-  *<u>Summary</u>*: We use keystroke pattern of an individual for the biometric authentication method. The keyboard stroke patterns of a user are            continuously monitored, the flight and dwell time for each key are used, and the pattern of these extracted features is                  checked against the individual’s unique typing pattern to provide a continuous risk rating.
-  
+	  [[Poster]](https://drive.google.com/file/d/1dUFUGx_743ylqhF39uOjfoVtOHUu2dxO) [[Report]](https://drive.google.com/file/d/1m3J8bi3NcoUdhPiTUHFbWC-FynEcXKb-/)
+	  
+	  *<u>Summary</u>*: We use keystroke pattern of an individual for the biometric authentication method. The keyboard stroke patterns of a user are            continuously monitored, the flight and dwell time for each key are used, and the pattern of these extracted features is                  checked against the individual’s unique typing pattern to provide a continuous risk rating.
+	  
 -  **Toxic Comment Classification**
 
-  [[Poster]](https://drive.google.com/open?id=19CSuyJz9Z67z9dhNvX8HrgLd4uDWKO3d) [[Report]](https://drive.google.com/file/d/19TFc3anHDgflAkkppUOCp3WQ7ogU56U3/view?usp=sharing)
+	  [[Poster]](https://drive.google.com/open?id=19CSuyJz9Z67z9dhNvX8HrgLd4uDWKO3d) [[Report]](https://drive.google.com/file/d/19TFc3anHDgflAkkppUOCp3WQ7ogU56U3/view?usp=sharing)
 
-  *<u>Summary</u>*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs   and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the   others.
+	  *<u>Summary</u>*: Our study is basically focused on identification/classification of toxicity in a given text into multiple labels using CNNs   and compare the results with other classifiers like SVM, Naïve Bayes and Random Forests. Our results indicate that CNNs outperform the   others.
 
 -  **Medical Diagnosis through Retinal Fundus Images**
 
-  [[Poster]](https://drive.google.com/file/d/1Nr4mTLgo-wNDSjrOJbVxRxcTSH-I0SJ4/view?usp=sharing) [[Report]](https://drive.google.com/file/d/1mT20WcPP5fYpl7seCWTFs2G9GS2nQQHj)
+	  [[Poster]](https://drive.google.com/file/d/1Nr4mTLgo-wNDSjrOJbVxRxcTSH-I0SJ4/view?usp=sharing) [[Report]](https://drive.google.com/file/d/1mT20WcPP5fYpl7seCWTFs2G9GS2nQQHj)
 
-  *<u>Summary</u>*: A solution is established to treat blindness retinal disease based on deep learning framework. This solution utilizes         optical coherence tomography (OCT) images of retinal layers and trains a neural network with scratch. A transfer learning technique     has also been applied on image data and data augmentation has also been done. Lastly, significance of segmentation channels with          corresponding input images have also been analysed.
-  
+	  *<u>Summary</u>*: A solution is established to treat blindness retinal disease based on deep learning framework. This solution utilizes optical coherence tomography (OCT) images of retinal layers and trains a neural network with scratch. A transfer learning technique     has also been applied on image data and data augmentation has also been done. Lastly, significance of segmentation channels with corresponding input images have also been analysed.
+	  
 -  **Personalized Medicine: Redefining Cancer Treatment**
 
      [[Poster]](https://drive.google.com/file/d/1vnnB1v52yBFgI6lq2haNMEV8ISxsHsk1) [[Report]](https://drive.google.com/file/d/1oFxnipK7QZ5btfiiWmEtz8pCDb1e46Em)
@@ -41,9 +41,9 @@ List of projects that presented with poster and demos.
 	
 -  **Gunshot Detection**
 
-  [[Poster]](https://drive.google.com/file/d/11YoQIqFpQ08DTEhNkVo7TsPuy97rb4ek/view?usp=sharing) [[Report]](https://drive.google.com/file/d/1ELomtoeBde3cjbwk1CoYzjgwFmKWdeLK/view?usp=sharing)
+	  [[Poster]](https://drive.google.com/file/d/11YoQIqFpQ08DTEhNkVo7TsPuy97rb4ek/view?usp=sharing) [[Report]](https://drive.google.com/file/d/1ELomtoeBde3cjbwk1CoYzjgwFmKWdeLK/view?usp=sharing)
 
-  *<u>Summary</u>*: we have set a gunshot detection system with emphasis on quick response, robustness to external disturbances, and less runtime computations. For the achievement of these objectives we have utilized many comprehensive machine learning techniques, including support vector machines with various kernels, neural networks, convolutional neural networks, autoencoders and anomaly detection. By extracting a large set of features, training and testing on extensive dataset we were able to achieve best results in training and testing accuracy and in real time as well.
+	  *<u>Summary</u>*: we have set a gunshot detection system with emphasis on quick response, robustness to external disturbances, and less runtime computations. For the achievement of these objectives we have utilized many comprehensive machine learning techniques, including support vector machines with various kernels, neural networks, convolutional neural networks, autoencoders and anomaly detection. By extracting a large set of features, training and testing on extensive dataset we were able to achieve best results in training and testing accuracy and in real time as well.
 	
 -  **Predicting Fault Regime of Operation of Train Car**
 	 [[Poster]]() [[Report]]()	
